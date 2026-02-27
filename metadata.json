@@ -1,0 +1,5 @@
+{
+  "name": "VS Code Web",
+  "description": "A high-fidelity VS Code clone built with React and Tailwind CSS, featuring a mock file system, tabbed editor, and integrated Gemini AI for code assistance.",
+  "requestFramePermissions": []
+}
